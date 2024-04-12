@@ -1,0 +1,12 @@
+.organisation-bg-container{
+    display: flex;
+    background-color:#000000;
+}
+.organisation-container{
+    width:100%;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color:#ffffff;
+}

@@ -1,0 +1,32 @@
+.crypto-container {
+    display: flex;
+    align-items: center;
+  }
+  
+  .crypto-cards {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:center;
+  }
+  
+  .crypto-card {
+    width: 200px;
+    height: 100px;
+    margin: 10px;
+    padding: 20px;
+    border-radius: 8px;
+    background-color:#0F130F;
+  ;
+  }
+  
+  .crypto-currency {
+    margin: 0;
+    font-size: 24px;
+    color:#ffffff;
+  }
+  
+  .crypto-price {
+    margin: 5px 0 0 0;
+    font-size: 18px;
+    color: #ffffff;
+  }
